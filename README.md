@@ -1,6 +1,6 @@
 # PayTrace – Privacy-Preserving Payment Forensics Engine
 
-A Chrome Extension that detects potentially suspicious behavior on online payment pages without collecting or storing sensitive payment information.
+PayTrace is a Chrome extension that monitors browser behavior on online payment pages to identify potentially suspicious activity while preserving user privacy. The extension analyzes behavioral signals, network activity, DOM modifications, and browser security indicators without collecting sensitive payment information.
 
 ## Features
 
